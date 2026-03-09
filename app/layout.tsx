@@ -23,7 +23,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: 'DRAXENBR — Um novo mundo para explorar',
   description: 'Servidor Minecraft RPG com mods, facções e aventuras épicas. Anjos vs Demônios, 86 mods e construções únicas.',
-  generator: 'Dara.cs,
+  generator: 'v0.app,
 }
 
 export default function RootLayout({
